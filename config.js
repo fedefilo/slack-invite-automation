@@ -17,5 +17,5 @@ module.exports = {
   recaptchaSiteKey: process.env.RECAPTCHA_SITE || null,
   recaptchaSecretKey: process.env.RECAPTCHA_SECRET || null,
   // default locale
-  locale: process.env.LOCALE || "en",
+  locale: process.env.LOCALE || "es",
 };
